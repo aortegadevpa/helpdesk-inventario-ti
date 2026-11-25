@@ -1,1 +1,0 @@
-# helpdesk-inventario-ti
